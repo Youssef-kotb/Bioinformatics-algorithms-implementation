@@ -31,6 +31,6 @@ This tool is perfect for students, researchers, and bioinformatics enthusiasts.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/bioinformatics-sequence-analyzer.git
+git clone https://github.com/Youssef-kotb/Bioinformatics-algorithms-implementation/tree/master
 cd bioinformatics-sequence-analyzer
 python3 app.py
